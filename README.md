@@ -1,2 +1,4 @@
 # Nova-Fitriani-Web-Personal
-Web
+
+terhubung database
+http://nvaftrn.lovestoblog.com
