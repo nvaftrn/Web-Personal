@@ -1,4 +1,4 @@
 # Nova-Fitriani-Web-Personal
 
 terhubung database
-http://nvaftrn.lovestoblog.com
+(http://nvftrn10.infy.uk/)
